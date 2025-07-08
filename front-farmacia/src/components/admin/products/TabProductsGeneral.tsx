@@ -1,5 +1,5 @@
-import { Button } from '@/components/ui/button'
-import { CirclePlus, CloudUpload, Download, Filter } from 'lucide-react'
+
+import { CirclePlus } from 'lucide-react'
 import Modal, { ModalButton, ModalContent } from "@/components/admin/Modal";
 import FormProduct from './FormProduct';
 import { DataTableProducts } from '@/payments/data-table';
